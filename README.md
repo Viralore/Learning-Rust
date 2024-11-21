@@ -44,7 +44,7 @@ This repository covers a range of Rust programming concepts, including:
 
 1. **Clone the Repository**:  
    ```bash
-   git clone https://github.com/<Viralore>/Learning-Rust.git
+   git clone https://github.com/Viralore/Learning-Rust.git
    cd Learning-Rust
    ```
 
